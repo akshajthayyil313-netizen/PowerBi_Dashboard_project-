@@ -128,5 +128,5 @@ Clean visuals and drill-through features help stakeholders identify trends insta
 Add visuals such as:
 
 ```
-![Dashboard Preview](YOUR_IMAGE_LINK)
+![Dashboard Preview](https://github.com/akshajthayyil313-netizen/PowerBi_Dashboard_project-/blob/main/Screenshot%20powerbi%20dashboard.png)
 ```
