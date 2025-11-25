@@ -130,9 +130,3 @@ Add visuals such as:
 ```
 ![Dashboard Preview](YOUR_IMAGE_LINK)
 ```
-
-Example:
-
-```
-![Dashboard Preview](https://github.com/yourusername/yourrepo/blob/main/superstore_dashboard_screenshot.png)
-```
